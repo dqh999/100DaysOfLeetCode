@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
 
-public class Solution {
+        return 0;
+    }
 }
